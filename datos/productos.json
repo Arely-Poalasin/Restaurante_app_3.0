@@ -1,0 +1,44 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Hamburguesa Clásica",
+        "precio": 5.5,
+        "categoria": "Comida"
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Pizza Personal",
+        "precio": 7.0,
+        "categoria": "Comida"
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Papas Fritas",
+        "precio": 2.5,
+        "categoria": "Acompañamiento"
+    },
+    {
+        "codigo": "P004",
+        "nombre": "Jugo Natural",
+        "precio": 2.0,
+        "categoria": "Bebida"
+    },
+    {
+        "codigo": "P005",
+        "nombre": "Ensalada César",
+        "precio": 4.5,
+        "categoria": "Comida"
+    },
+    {
+        "codigo": "P006",
+        "nombre": "Batido de Fresa",
+        "precio": 3.0,
+        "categoria": "Bebida"
+    },
+    {
+        "codigo": "P007",
+        "nombre": "Gaseosa",
+        "precio": 1.0,
+        "categoria": "Bebida"
+    }
+]
